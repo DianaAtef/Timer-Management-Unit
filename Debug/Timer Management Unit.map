@@ -1,0 +1,646 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega32/avr5/crtatmega32.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              Mcal/Timer/src/Timer_Lcfg.o (__do_copy_data)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              Mcal/Timer/src/Timer.o (__do_clear_bss)
+
+Allocating common symbols
+Common symbol       size              file
+
+g_variables         0x4               Mcal/Timer/src/Timer.o
+gastr_TmuRequests   0x2d              Service Layer/src/TMU.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega32/avr5/crtatmega32.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega32/avr5/crtatmega32.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .text          0x00000000        0x0 Mcal/Dio/src/Dio.o
+ .data          0x00000000        0x0 Mcal/Dio/src/Dio.o
+ .bss           0x00000000        0x0 Mcal/Dio/src/Dio.o
+ .text.gpioPortDirection
+                0x00000000       0x20 Mcal/Dio/src/Dio.o
+ .text.gpioPortWrite
+                0x00000000       0x20 Mcal/Dio/src/Dio.o
+ .text.gpioPortToggle
+                0x00000000       0x30 Mcal/Dio/src/Dio.o
+ .text.gpioPortRead
+                0x00000000       0x24 Mcal/Dio/src/Dio.o
+ .text.gpioPinWrite
+                0x00000000       0x68 Mcal/Dio/src/Dio.o
+ .text.gpioPinRead
+                0x00000000       0xa4 Mcal/Dio/src/Dio.o
+ .text.gpioUpperNibbleDirection
+                0x00000000       0x60 Mcal/Dio/src/Dio.o
+ .text.gpioUpperNibbleWrite
+                0x00000000       0x60 Mcal/Dio/src/Dio.o
+ .text.gpioUpperNibbleToggle
+                0x00000000       0x38 Mcal/Dio/src/Dio.o
+ .text.gpioUpperNibbleRead
+                0x00000000       0x34 Mcal/Dio/src/Dio.o
+ .text.gpioLowerNibbleDirection
+                0x00000000       0x60 Mcal/Dio/src/Dio.o
+ .text.gpioLowerNibbleWrite
+                0x00000000       0x60 Mcal/Dio/src/Dio.o
+ .text.gpioLowerNibbleToggle
+                0x00000000       0x38 Mcal/Dio/src/Dio.o
+ .text.gpioLowerNibbleRead
+                0x00000000       0x2c Mcal/Dio/src/Dio.o
+ .text          0x00000000        0x0 Mcal/Led/src/led.o
+ .data          0x00000000        0x0 Mcal/Led/src/led.o
+ .bss           0x00000000        0x0 Mcal/Led/src/led.o
+ .text.allLed_init
+                0x00000000        0xa Mcal/Led/src/led.o
+ .text.allOn    0x00000000        0xa Mcal/Led/src/led.o
+ .text.allOff   0x00000000        0xa Mcal/Led/src/led.o
+ .text.ledOn    0x00000000        0xc Mcal/Led/src/led.o
+ .text.ledOff   0x00000000        0xc Mcal/Led/src/led.o
+ .text.ledAllToggle
+                0x00000000        0x8 Mcal/Led/src/led.o
+ .text          0x00000000        0x0 Mcal/Timer/src/Timer.o
+ .data          0x00000000        0x0 Mcal/Timer/src/Timer.o
+ .bss           0x00000000        0x0 Mcal/Timer/src/Timer.o
+ .text.Timer_stop
+                0x00000000       0x18 Mcal/Timer/src/Timer.o
+ .text.Timer_set_counter
+                0x00000000       0x24 Mcal/Timer/src/Timer.o
+ .text.Timer_getStatus
+                0x00000000       0xd2 Mcal/Timer/src/Timer.o
+ .bss.click2    0x00000000        0x1 Mcal/Timer/src/Timer.o
+ .text          0x00000000        0x0 Mcal/Timer/src/Timer_Lcfg.o
+ .data          0x00000000        0x0 Mcal/Timer/src/Timer_Lcfg.o
+ .bss           0x00000000        0x0 Mcal/Timer/src/Timer_Lcfg.o
+ .text          0x00000000        0x0 Service Layer/src/TMU.o
+ .data          0x00000000        0x0 Service Layer/src/TMU.o
+ .bss           0x00000000        0x0 Service Layer/src/TMU.o
+ .text.TMU_Stop_Timer
+                0x00000000       0x58 Service Layer/src/TMU.o
+ .text.TMU_DeInit
+                0x00000000       0x3c Service Layer/src/TMU.o
+ .text          0x00000000        0x0 Service Layer/src/TMU_Lcfg.o
+ .data          0x00000000        0x0 Service Layer/src/TMU_Lcfg.o
+ .bss           0x00000000        0x0 Service Layer/src/TMU_Lcfg.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000002         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega32/avr5/crtatmega32.o
+LOAD main.o
+LOAD Mcal/Dio/src/Dio.o
+LOAD Mcal/Led/src/led.o
+LOAD Mcal/Timer/src/Timer.o
+LOAD Mcal/Timer/src/Timer_Lcfg.o
+LOAD Service Layer/src/TMU.o
+LOAD Service Layer/src/TMU_Lcfg.o
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega32/avr5\libatmega32.a
+END GROUP
+                0x00020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x0000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000002]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000      0x3ca
+ *(.vectors)
+ .vectors       0x00000000       0x54 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega32/avr5/crtatmega32.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000054                . = ALIGN (0x2)
+                0x00000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000054        0x0 linker stubs
+ *(.trampolines*)
+                0x00000054                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x00000054                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000054                __ctors_start = .
+ *(.ctors)
+                0x00000054                __ctors_end = .
+                0x00000054                __dtors_start = .
+ *(.dtors)
+                0x00000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000054        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega32/avr5/crtatmega32.o
+                0x00000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000054        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega32/avr5/crtatmega32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000060       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x00000060                __do_copy_data
+ .init4         0x00000076       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x00000076                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000086        0x8 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega32/avr5/crtatmega32.o
+ *(.init9)
+ *(.text)
+ .text          0x0000008e        0x4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega32/avr5/crtatmega32.o
+                0x0000008e                __vector_1
+                0x0000008e                __vector_12
+                0x0000008e                __bad_interrupt
+                0x0000008e                __vector_6
+                0x0000008e                __vector_3
+                0x0000008e                __vector_13
+                0x0000008e                __vector_17
+                0x0000008e                __vector_19
+                0x0000008e                __vector_7
+                0x0000008e                __vector_5
+                0x0000008e                __vector_4
+                0x0000008e                __vector_9
+                0x0000008e                __vector_2
+                0x0000008e                __vector_15
+                0x0000008e                __vector_8
+                0x0000008e                __vector_14
+                0x0000008e                __vector_10
+                0x0000008e                __vector_16
+                0x0000008e                __vector_18
+                0x0000008e                __vector_20
+                0x00000092                . = ALIGN (0x2)
+ *(.text.*)
+ .text.ToggleLed
+                0x00000092        0x8 main.o
+                0x00000092                ToggleLed
+ .text.ToggleLed2
+                0x0000009a        0x8 main.o
+                0x0000009a                ToggleLed2
+ .text.main     0x000000a2       0x32 main.o
+                0x000000a2                main
+ .text.gpioPinDirection
+                0x000000d4       0x68 Mcal/Dio/src/Dio.o
+                0x000000d4                gpioPinDirection
+ .text.gpioPinToggle
+                0x0000013c       0x30 Mcal/Dio/src/Dio.o
+                0x0000013c                gpioPinToggle
+ .text.led_init
+                0x0000016c        0xc Mcal/Led/src/led.o
+                0x0000016c                led_init
+ .text.ledToggle
+                0x00000178        0xa Mcal/Led/src/led.o
+                0x00000178                ledToggle
+ .text.SetCallBack
+                0x00000182        0xa Mcal/Timer/src/Timer.o
+                0x00000182                SetCallBack
+ .text.Timer_init
+                0x0000018c       0x88 Mcal/Timer/src/Timer.o
+                0x0000018c                Timer_init
+ .text.Timer_start
+                0x00000214       0x3c Mcal/Timer/src/Timer.o
+                0x00000214                Timer_start
+ .text.__vector_11
+                0x00000250       0x70 Mcal/Timer/src/Timer.o
+                0x00000250                __vector_11
+ .text.TMU_Tick
+                0x000002c0       0x4a Service Layer/src/TMU.o
+                0x000002c0                TMU_Tick
+ .text.TMU_Init
+                0x0000030a       0x1c Service Layer/src/TMU.o
+                0x0000030a                TMU_Init
+ .text.TMU_Start_Timer
+                0x00000326       0x44 Service Layer/src/TMU.o
+                0x00000326                TMU_Start_Timer
+ .text.TMU_Dispatch
+                0x0000036a       0x5c Service Layer/src/TMU.o
+                0x0000036a                TMU_Dispatch
+                0x000003c6                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000003c6        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x000003c6                _exit
+                0x000003c6                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000003c6        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000003ca                _etext = .
+
+.data           0x00800060        0x8 load address 0x000003ca
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.user_timer
+                0x00800060        0x6 Mcal/Timer/src/Timer_Lcfg.o
+                0x00800060                user_timer
+ .data.TMU_Con  0x00800066        0x2 Service Layer/src/TMU_Lcfg.o
+                0x00800066                TMU_Con
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.r*)
+                0x00800068                . = ALIGN (0x2)
+                0x00800068                _edata = .
+                0x00800068                PROVIDE (__data_end, .)
+
+.bss            0x00800068       0x35
+                0x00800068                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.callBackPtr
+                0x00800068        0x2 Mcal/Timer/src/Timer.o
+                0x00800068                callBackPtr
+ .bss.click     0x0080006a        0x1 Mcal/Timer/src/Timer.o
+                0x0080006a                click
+ .bss.gArrayIndex
+                0x0080006b        0x1 Service Layer/src/TMU.o
+                0x0080006b                gArrayIndex
+ *(COMMON)
+ COMMON         0x0080006c        0x4 Mcal/Timer/src/Timer.o
+                0x0080006c                g_variables
+ COMMON         0x00800070       0x2d Service Layer/src/TMU.o
+                0x00800070                gastr_TmuRequests
+                0x0080009d                PROVIDE (__bss_end, .)
+                0x000003ca                __data_load_start = LOADADDR (.data)
+                0x000003d2                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080009d        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x0080009d                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 main.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 Mcal/Dio/src/Dio.o
+ .comment       0x00000030       0x31 Mcal/Led/src/led.o
+ .comment       0x00000030       0x31 Mcal/Timer/src/Timer.o
+ .comment       0x00000030       0x31 Mcal/Timer/src/Timer_Lcfg.o
+ .comment       0x00000030       0x31 Service Layer/src/TMU.o
+ .comment       0x00000030       0x31 Service Layer/src/TMU_Lcfg.o
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x3c C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega32/avr5/crtatmega32.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x1e8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x30 main.o
+ .debug_aranges
+                0x00000030       0x98 Mcal/Dio/src/Dio.o
+ .debug_aranges
+                0x000000c8       0x58 Mcal/Led/src/led.o
+ .debug_aranges
+                0x00000120       0x50 Mcal/Timer/src/Timer.o
+ .debug_aranges
+                0x00000170       0x18 Mcal/Timer/src/Timer_Lcfg.o
+ .debug_aranges
+                0x00000188       0x48 Service Layer/src/TMU.o
+ .debug_aranges
+                0x000001d0       0x18 Service Layer/src/TMU_Lcfg.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x175d
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x4e6 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega32/avr5/crtatmega32.o
+ .debug_info    0x000004e6      0x1ae main.o
+ .debug_info    0x00000694      0x3e9 Mcal/Dio/src/Dio.o
+ .debug_info    0x00000a7d      0x285 Mcal/Led/src/led.o
+ .debug_info    0x00000d02      0x459 Mcal/Timer/src/Timer.o
+ .debug_info    0x0000115b      0x144 Mcal/Timer/src/Timer_Lcfg.o
+ .debug_info    0x0000129f      0x402 Service Layer/src/TMU.o
+ .debug_info    0x000016a1       0xbc Service Layer/src/TMU_Lcfg.o
+
+.debug_abbrev   0x00000000      0xaee
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x4a3 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega32/avr5/crtatmega32.o
+ .debug_abbrev  0x000004a3       0xa6 main.o
+ .debug_abbrev  0x00000549      0x121 Mcal/Dio/src/Dio.o
+ .debug_abbrev  0x0000066a       0x9a Mcal/Led/src/led.o
+ .debug_abbrev  0x00000704      0x166 Mcal/Timer/src/Timer.o
+ .debug_abbrev  0x0000086a       0x78 Mcal/Timer/src/Timer_Lcfg.o
+ .debug_abbrev  0x000008e2      0x194 Service Layer/src/TMU.o
+ .debug_abbrev  0x00000a76       0x78 Service Layer/src/TMU_Lcfg.o
+
+.debug_line     0x00000000      0xdf5
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x115 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega32/avr5/crtatmega32.o
+ .debug_line    0x00000115       0xc4 main.o
+ .debug_line    0x000001d9      0x4fa Mcal/Dio/src/Dio.o
+ .debug_line    0x000006d3      0x119 Mcal/Led/src/led.o
+ .debug_line    0x000007ec      0x2f2 Mcal/Timer/src/Timer.o
+ .debug_line    0x00000ade       0x7b Mcal/Timer/src/Timer_Lcfg.o
+ .debug_line    0x00000b59      0x21f Service Layer/src/TMU.o
+ .debug_line    0x00000d78       0x7d Service Layer/src/TMU_Lcfg.o
+
+.debug_frame    0x00000000      0x34c
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x44 main.o
+ .debug_frame   0x00000044      0x114 Mcal/Dio/src/Dio.o
+ .debug_frame   0x00000158       0x94 Mcal/Led/src/led.o
+ .debug_frame   0x000001ec       0xcc Mcal/Timer/src/Timer.o
+ .debug_frame   0x000002b8       0x94 Service Layer/src/TMU.o
+
+.debug_str      0x00000000      0x843
+ *(.debug_str)
+ .debug_str     0x00000000      0x196 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega32/avr5/crtatmega32.o
+ .debug_str     0x00000196      0x190 main.o
+                                0x1c9 (size before relaxing)
+ .debug_str     0x00000326      0x163 Mcal/Dio/src/Dio.o
+                                0x2c8 (size before relaxing)
+ .debug_str     0x00000489       0x54 Mcal/Led/src/led.o
+                                0x242 (size before relaxing)
+ .debug_str     0x000004dd      0x21c Mcal/Timer/src/Timer.o
+                                0x3a7 (size before relaxing)
+ .debug_str     0x000006f9       0x2a Mcal/Timer/src/Timer_Lcfg.o
+                                0x230 (size before relaxing)
+ .debug_str     0x00000723       0xf6 Service Layer/src/TMU.o
+                                0x36b (size before relaxing)
+ .debug_str     0x00000819       0x2a Service Layer/src/TMU_Lcfg.o
+                                0x1c1 (size before relaxing)
+
+.debug_loc      0x00000000      0xf16
+ *(.debug_loc)
+ .debug_loc     0x00000000      0xb20 Mcal/Dio/src/Dio.o
+ .debug_loc     0x00000b20       0xb0 Mcal/Led/src/led.o
+ .debug_loc     0x00000bd0      0x21c Mcal/Timer/src/Timer.o
+ .debug_loc     0x00000dec      0x12a Service Layer/src/TMU.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x168
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x20 main.o
+ .debug_ranges  0x00000020       0x88 Mcal/Dio/src/Dio.o
+ .debug_ranges  0x000000a8       0x48 Mcal/Led/src/led.o
+ .debug_ranges  0x000000f0       0x40 Mcal/Timer/src/Timer.o
+ .debug_ranges  0x00000130       0x38 Service Layer/src/TMU.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(Timer Management Unit.elf elf32-avr)
+LOAD linker stubs
